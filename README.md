@@ -10,4 +10,8 @@ This was a learing project about:
 3. Filtering movies based on condition such as  `run time`
 4. Looking at votes gained by a movie
 
-### Matrix evaluation
+### [Matrix evaluation](https://github.com/juhidhingra/python_pandas_projects/blob/master/MATRIX%20-%20BASKETBALL%20ANALYSIS%20.ipynb)
+#### Data source:
+Inline in the python notebook
+#### Analysis:
+This is a learning project on how to work with matrix.
